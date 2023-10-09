@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Saber
+Build-Jdk: 17.0.5
+Implementation-Title: springboot-data-rest-demo
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.apress
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-data-rest-demo
+Created-By: Maven Integration for Eclipse
+

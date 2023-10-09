@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hello-springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Saber
+Implementation-Vendor-Id: com.apress
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hello-springboot
+Created-By: Maven Integration for Eclipse
+
